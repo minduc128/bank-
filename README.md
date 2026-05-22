@@ -59,6 +59,6 @@ The Growth Paradox: The North region generates the highest revenue but has lower
 Strategic Backbone: The Enterprise segment contributes the highest Average Order Value (AOV) and is vital for long-term profit stability
 .
 Efficiency Target: The overall margin of 29.35% is just below the 30% strategic goal, highlighting a need for cost optimization in high-volume Retail segments [Conversation history].
-📥 How to Run
+ How to Run
 Python: Open the Jupyter Notebook and run all cells to perform the data transformation and generate EDA plots.
 Power BI: Open the .pbix file to interact with the final dashboard. Ensure the data source paths are updated to your local directory.
