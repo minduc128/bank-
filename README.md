@@ -1,4 +1,5 @@
-# bank-
+# Store manager
+
 Analysis of customers and products of the store using Python and Power BI.
  Project Overview
 This project applies Exploratory Data Analysis (EDA) and Data Storytelling to optimize the business performance of a global retail chain. By integrating Python for deep statistical exploration and Power BI for interactive reporting, the project identifies a "Growth Paradox"—where increasing revenue does not always lead to higher profitability due to rising operational costs
